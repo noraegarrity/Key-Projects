@@ -1,0 +1,3 @@
+#!/bin/bash
+
+/nopt/python-3.6/bin/python3.6 svm_classify.py "$1" "$2" "$3"
